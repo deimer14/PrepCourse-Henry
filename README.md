@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-este es un repositorio de prueba del modelo 2 prepcourse de henry 
+este un repositorio de prueba solo para conocedores del tema 
